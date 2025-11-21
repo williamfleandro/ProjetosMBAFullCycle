@@ -14,7 +14,7 @@ Este projeto realiza:
 - Frontend web minimalista consumindo a API;
 - Dockerfile para empacotar o app.
 
-Diagrama marmaid
+Diagrama Mermaid
 
 ```text
 flowchart LR
