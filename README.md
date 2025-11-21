@@ -14,6 +14,8 @@ Este projeto realiza:
 - Frontend web minimalista consumindo a API;
 - Dockerfile para empacotar o app.
 
+![Uploading image.png…]()
+
 A coleção usada no banco vetorial é:
 
 ```text
