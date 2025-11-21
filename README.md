@@ -14,7 +14,24 @@ Este projeto realiza:
 - Frontend web minimalista consumindo a API;
 - Dockerfile para empacotar o app.
 
-![Uploading image.png…]()
+Diagrama marmaid
+
+```text
+flowchart LR
+    subgraph Cliente
+        A[Navegador Frontend] -->|HTTP/JSON| B[API FastAPI]
+        C[CLI chat.py] -->|Função search_prompt| D[Camada RAG app.py]
+    end
+
+    subgraph Servidor
+        B --> D
+        D -->|embeddings / similarity search| E[Postgres + pgvector]
+        D -->|chamada LLM| F[Provedor de IA OpenAI/Gemini]
+    end
+
+    E:::db
+    classDef db fill:#1f2933,stroke:#4b5563,color:#f9fafb;
+```
 
 A coleção usada no banco vetorial é:
 
