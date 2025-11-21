@@ -1,7 +1,7 @@
 # ProjetosMBAFullCycle
 Aqui estão os projetos desenvolvidos para a MBA da FullCycle 
 
-# Projeto RAG com pgvector, FastAPI e Frontend Minimalista
+# Projeto RAG ingestão e Busca Semântica com LangChain e Postgres
 
 Este projeto realiza:
 
