@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # Projeto RAG com pgvector, FastAPI e Frontend Minimalista
+=======
+# ProjetosMBAFullCycle
+Aqui estão os projetos desenvolvidos para a MBA da FullCycle 
+
+# Projeto RAG ingestão e Busca Semântica com LangChain e Postgres
+>>>>>>> b4d6cbb5b8576563ec1284170dd1813dc896e419
 
 Este projeto realiza:
 
@@ -11,6 +18,28 @@ Este projeto realiza:
 - Frontend web minimalista consumindo a API;
 - Dockerfile para empacotar o app.
 
+<<<<<<< HEAD
+=======
+Diagrama Mermaid
+
+```text
+flowchart LR
+    subgraph Cliente
+        A[Navegador Frontend] -->|HTTP/JSON| B[API FastAPI]
+        C[CLI chat.py] -->|Função search_prompt| D[Camada RAG app.py]
+    end
+
+    subgraph Servidor
+        B --> D
+        D -->|embeddings / similarity search| E[Postgres + pgvector]
+        D -->|chamada LLM| F[Provedor de IA OpenAI/Gemini]
+    end
+
+    E:::db
+    classDef db fill:#1f2933,stroke:#4b5563,color:#f9fafb;
+```
+
+>>>>>>> b4d6cbb5b8576563ec1284170dd1813dc896e419
 A coleção usada no banco vetorial é:
 
 ```text
@@ -191,3 +220,7 @@ http://localhost:8000/
 - A coleção padrão no pgvector é `documento_colecao`;
 - Ajuste `PG_CONN_STR` no `.env` se o host/porta/credenciais do banco mudarem;
 - Para trocar de provedor (OpenAI ↔ Gemini), ajuste as variáveis `LLM_PROVIDER` e `EMBEDDING_PROVIDER`.
+<<<<<<< HEAD
+=======
+
+>>>>>>> b4d6cbb5b8576563ec1284170dd1813dc896e419
