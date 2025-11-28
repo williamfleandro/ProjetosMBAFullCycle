@@ -5,7 +5,7 @@
 Aqui estão os projetos desenvolvidos para a MBA da FullCycle 
 
 # Projeto RAG ingestão e Busca Semântica com LangChain e Postgres
->>>>>>> 
+>>>>>>> b4d6cbb5b8576563ec1284170dd1813dc896e419
 
 Este projeto realiza:
 
