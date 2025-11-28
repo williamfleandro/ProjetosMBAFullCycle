@@ -1,0 +1,185 @@
+2025-11-20 13:27:54,425 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 13:27:55,164 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 13:27:55,175 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 13:27:57,844 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 13:27:57,847 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 13:27:59,124 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 13:28:01,926 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:13:29,567 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:13:30,506 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:13:30,517 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:13:33,024 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:13:33,024 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:13:35,443 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:13:38,006 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:13:38,339 - WARNING - Collection not found
+2025-11-20 14:13:43,556 - INFO - Ingestão concluída com sucesso.
+2025-11-20 14:13:43,556 - INFO - =================================
+
+2025-11-20 14:14:25,303 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:14:26,029 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:14:26,044 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:14:27,961 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:14:27,963 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:14:29,473 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:14:31,438 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:14:37,263 - INFO - Ingestão concluída com sucesso.
+2025-11-20 14:14:37,264 - INFO - =================================
+
+2025-11-20 14:35:43,437 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:35:44,382 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:35:44,397 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:35:46,660 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:35:46,662 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:35:48,548 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:35:51,548 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:35:58,408 - INFO - Ingestão concluída com sucesso.
+2025-11-20 14:35:58,409 - INFO - =================================
+
+2025-11-20 14:39:41,948 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:39:42,909 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:39:42,920 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:39:45,444 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:39:45,447 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:39:47,169 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:39:49,900 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:39:50,241 - WARNING - Collection not found
+2025-11-20 14:39:56,015 - INFO - Ingestão concluída com sucesso.
+2025-11-20 14:39:56,015 - INFO - =================================
+
+2025-11-20 14:44:35,829 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:44:36,605 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:44:36,614 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:44:39,249 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:44:39,252 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:44:40,583 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:44:43,094 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:48:25,746 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:48:26,522 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:48:26,532 - INFO - Total de chunks após split inteligente: 1002
+2025-11-20 14:48:28,922 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:48:28,925 - INFO - Embedding de teste OK \u2192 1536 dimensões.
+2025-11-20 14:48:30,349 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:48:32,242 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:50:22,055 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:50:22,947 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:50:22,958 - INFO - Total de chunks após split: 1002
+2025-11-20 14:50:26,588 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:50:29,480 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:51:01,061 - INFO - ==== INÍCIO DA INGESTÃO ====
+2025-11-20 14:51:01,830 - INFO - PDF extraído \u2192 1002 blocos detectados.
+2025-11-20 14:51:01,843 - INFO - Total de chunks após split: 1002
+2025-11-20 14:51:05,096 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:51:06,992 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:52:19,043 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 14:52:19,826 - INFO - PDF \u2192 1002 blocos detectados
+2025-11-20 14:52:19,839 - INFO - Chunks finais \u2192 1002
+2025-11-20 14:54:26,734 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 14:54:27,686 - INFO - PDF \u2192 1002 blocos detectados
+2025-11-20 14:54:27,705 - INFO - Chunks finais \u2192 1002
+2025-11-20 14:54:30,751 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 14:54:32,701 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:42:55,515 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:42:56,190 - INFO - PDF \u2192 1002 blocos detectados
+2025-11-20 20:42:56,206 - INFO - Chunks finais \u2192 1002
+2025-11-20 20:42:59,227 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:43:01,199 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:44:09,141 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:44:09,968 - INFO - PDF \u2192 1002 blocos detectados
+2025-11-20 20:44:09,978 - INFO - Chunks finais \u2192 1002
+2025-11-20 20:44:49,104 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:44:49,955 - INFO - PDF \u2192 1002 blocos detectados
+2025-11-20 20:44:49,962 - INFO - Chunks finais \u2192 1002
+2025-11-20 20:44:53,176 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:44:54,932 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:46:27,803 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:46:28,609 - INFO - PDF \u2192 34 blocos detectados
+2025-11-20 20:46:28,611 - INFO - Chunks finais \u2192 99
+2025-11-20 20:46:33,829 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:47:51,699 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:47:52,510 - INFO - PDF \u2192 34 blocos detectados
+2025-11-20 20:47:52,520 - INFO - Chunks finais \u2192 99
+2025-11-20 20:47:55,124 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:48:12,459 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:48:13,209 - INFO - PDF \u2192 34 blocos detectados
+2025-11-20 20:48:13,209 - INFO - Chunks finais \u2192 99
+2025-11-20 20:48:16,095 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:48:28,271 - INFO - ====== INICIANDO INGESTÃO ======
+2025-11-20 20:48:29,165 - INFO - PDF \u2192 34 blocos detectados
+2025-11-20 20:48:29,167 - INFO - Chunks finais \u2192 99
+2025-11-20 20:48:31,991 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:50:18,561 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 20:50:19,388 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 20:50:19,389 - INFO - Total de 99 chunks gerados.
+2025-11-20 20:50:21,598 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:50:22,498 - WARNING - Collection not found
+2025-11-20 20:50:22,842 - INFO - Ingestão concluída.
+2025-11-20 20:50:22,842 - INFO - ==============================
+2025-11-20 20:50:34,438 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 20:50:35,254 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 20:50:35,257 - INFO - Total de 99 chunks gerados.
+2025-11-20 20:50:37,447 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:50:39,331 - INFO - Ingestão concluída.
+2025-11-20 20:50:39,331 - INFO - ==============================
+2025-11-20 20:52:07,594 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 20:52:08,330 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 20:52:08,330 - INFO - Total de 99 chunks gerados.
+2025-11-20 20:52:11,080 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 20:52:12,605 - INFO - Ingestão concluída.
+2025-11-20 20:52:12,605 - INFO - ==============================
+2025-11-20 21:11:45,183 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:11:45,942 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:11:45,945 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:11:47,833 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:12:18,525 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:12:19,665 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:12:19,667 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:12:21,444 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:15:22,027 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:15:22,776 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:15:22,778 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:15:24,226 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:16:19,438 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:16:20,127 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:16:20,127 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:16:21,573 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:19:01,375 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:19:02,170 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:19:02,170 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:19:03,671 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:20:58,706 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:20:59,496 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:20:59,512 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:21:00,875 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:21:52,357 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:21:53,139 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:21:53,139 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:21:54,723 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:22:54,159 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:22:55,051 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:22:55,055 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:22:56,718 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:25:19,447 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:25:20,314 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:25:20,314 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:25:21,913 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 401 Unauthorized"
+2025-11-20 21:26:16,651 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:26:17,660 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:26:17,660 - INFO - Total de 67 chunks gerados.
+2025-11-20 21:26:20,435 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 21:26:21,990 - WARNING - Collection not found
+2025-11-20 21:26:22,252 - INFO - Ingestão concluída.
+2025-11-20 21:26:22,252 - INFO - ==============================
+2025-11-20 21:58:32,487 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-20 21:58:33,325 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-20 21:58:33,327 - INFO - Total de 99 chunks gerados.
+2025-11-20 21:58:35,809 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-20 21:58:36,832 - INFO - Ingestão concluída.
+2025-11-20 21:58:36,832 - INFO - ==============================
+2025-11-21 16:56:16,884 - INFO - === INÍCIO DA INGESTÃO ===
+2025-11-21 16:56:17,749 - INFO - PDF carregado. 34 páginas processadas.
+2025-11-21 16:56:17,751 - INFO - Total de 99 chunks gerados.
+2025-11-21 16:56:20,852 - INFO - HTTP Request: POST https://api.openai.com/v1/embeddings "HTTP/1.1 200 OK"
+2025-11-21 16:56:21,780 - WARNING - Collection not found
+2025-11-21 16:56:22,110 - INFO - Ingestão concluída.
+2025-11-21 16:56:22,110 - INFO - ==============================
